@@ -2,6 +2,8 @@
 
 This is a simple web application for generating toast lists based on given guest list.
 
+![Rotary Toast List App](./images/rotary-toast-list-app.png)
+
 ## Features
 
 - Add guest information including name, club, and title.
